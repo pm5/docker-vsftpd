@@ -1,4 +1,4 @@
-FROM pomin5/docker-ssh
+FROM pomin5/ssh
 MAINTAINER Pomin Wu <pomin5@gmail.com>
 ENV DEBIAN_FRONTEND noninteractive
 ENV REFRESHED_AT 2014-12-08
